@@ -48,6 +48,7 @@ body {
 }
 
 span {
-    position: relative;display: grid;
+    position: relative;
+    display: grid;
     color: #fff;
 }
