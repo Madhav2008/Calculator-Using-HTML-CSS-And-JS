@@ -47,7 +47,7 @@ body {
     font-size: 2em;
 }
 
-span {
+.calculator span {
     position: relative;
     display: grid;
     width: 80px;
