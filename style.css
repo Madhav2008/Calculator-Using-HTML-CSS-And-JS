@@ -99,4 +99,4 @@ body {
     background: #f00;
 }
 
-.calculator .clear::before
+.calculator .clear::before{}
