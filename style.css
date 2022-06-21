@@ -83,7 +83,7 @@ body {
 }
 
 .calculator span:active {
-    filter: brightness(1);
+    filter: brightness(1.5);
 }
 
 .calculator span i {
