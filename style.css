@@ -51,6 +51,6 @@ span {
     position: relative;
     display: grid;
     width: 80px;
-    height: 80px;
+    height: 80px;background: ;
     color: #fff;
 }
