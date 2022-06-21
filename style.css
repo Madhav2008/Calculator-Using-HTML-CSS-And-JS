@@ -55,6 +55,6 @@ span {
     margin: 4px;
     background: linear-gradient(180deg, #2f2f2f, #3f3f3f);
     box-shadow: inset -8px 0 8px rgba(0, 0, 0, 0.15),
-        inset -8px 0 8px rgba(0, 0, 0, 0.15), ;
+        inset -8px 0 8px rgba(0, 0, 0, 0.15), inset -8px 0 8px rgba(0, 0, 0, 0.15);
     color: #fff;
 }
