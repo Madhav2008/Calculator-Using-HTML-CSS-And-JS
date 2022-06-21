@@ -59,5 +59,6 @@ span {
         0 0 0 2px rgba(0, 0, 0, 0.75),
         10px 20px 25px rgba(0, 0, 0, 0.4);
     color: #fff;
-    user-select: none;cursor: pointer;
+    user-select: none;
+    cursor: pointer;
 }
