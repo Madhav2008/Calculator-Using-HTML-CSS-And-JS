@@ -1,4 +1,4 @@
-# Calculator Using HTML, CSS And Javascript
+# Calculator Using HTML, CSS And JavaScript
 
 
 
