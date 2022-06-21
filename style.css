@@ -52,6 +52,6 @@ span {
     display: grid;
     width: 80px;
     height: 80px;
-    background: linear-gradient(180deg, #2f2f2f,);
+    background: linear-gradient(180deg, #2f2f2f, );
     color: #fff;
 }
