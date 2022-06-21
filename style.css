@@ -66,7 +66,8 @@ body {
 
 .calculator span::before {
     content: '';
-    position: absolute;background: linear-gradient(180deg, #2f2f2f, #3f3f3f);
+    position: absolute;
+    background: linear-gradient(180deg, #2f2f2f, #3f3f3f);
 }
 
 .calculator span i {
