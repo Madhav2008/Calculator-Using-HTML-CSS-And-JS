@@ -61,7 +61,8 @@ body {
     color: #fff;
     user-select: none;
     cursor: pointer;
-    font-weight: 400;border-radius: 10px;
+    font-weight: 400;
+    border-radius: 10px;
 }
 
 .calculator span::before {
