@@ -65,7 +65,8 @@ body {
 }
 
 .calculator span::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
 
 .calculator span i {
