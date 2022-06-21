@@ -49,7 +49,7 @@ body {
 
 .calculator span {
     position: relative;
-    display: grid;
+    display: grid;place-items: ;
     width: 80px;
     height: 80px;
     margin: 8px;
