@@ -51,7 +51,8 @@ span {
     position: relative;
     display: grid;
     width: 80px;
-    height: 80px;margin: 4px;
+    height: 80px;
+    margin: 4px;
     background: linear-gradient(180deg, #2f2f2f, #3f3f3f);
     color: #fff;
 }
