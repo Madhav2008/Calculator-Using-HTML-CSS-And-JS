@@ -48,6 +48,6 @@ body {
 }
 
 span {
-    position: relative;
+    position: relative;display: grid;
     color: #fff;
 }
