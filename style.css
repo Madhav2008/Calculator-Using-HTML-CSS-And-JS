@@ -31,7 +31,7 @@ body {
     display: grid;
 }
 
-.calculator .value {}
+.calculator .value {position: relative;}
 
 span {
     color: #fff;
