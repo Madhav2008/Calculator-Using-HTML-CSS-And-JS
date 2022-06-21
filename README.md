@@ -4,7 +4,7 @@
 
 # Note
 
-## In this project JS is only usen to toggle b/w Dark and Light Mode.
+## In this project JS is only used to toggle b/w Dark and Light Mode.
 
 # Screenshots
 
