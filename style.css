@@ -16,5 +16,6 @@ body {
 .container {
     position: relative;
     min-width: 300px;
-    min-height: 400px;background: #333;
+    min-height: 400px;
+    background: #333;
 }
