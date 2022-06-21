@@ -39,7 +39,8 @@ body {
     border: none;
     outline: none;
     background: #a7af7c;
-    margin-bottom: 10px;border-radius: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
 }
 
 span {
