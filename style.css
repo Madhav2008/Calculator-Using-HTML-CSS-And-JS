@@ -82,7 +82,9 @@ body {
     border-top: 1px solid #0009;
 }
 
-.calculator span:active {filter: brightness(1);}
+.calculator span:active {
+    filter: brightness(1);
+}
 
 .calculator span i {
     position: relative;
