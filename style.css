@@ -29,7 +29,7 @@ body {
 .calculator {
     position: relative;
     display: grid;
-}.calculator .value
+}.calculator .value{}
 
 span {
     color: #fff;
