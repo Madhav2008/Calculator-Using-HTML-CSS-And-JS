@@ -32,7 +32,8 @@ body {
 }
 
 .calculator .value {
-    position: relative;grid-column: span 4;
+    position: relative;
+    grid-column: span 4;
 }
 
 span {
