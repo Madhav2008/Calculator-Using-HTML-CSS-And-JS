@@ -64,4 +64,6 @@ body {
     font-weight: 400;
 }
 
-.calculator span i {position: relative;}
+.calculator span i {
+    position: relative;
+}
