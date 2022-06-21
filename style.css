@@ -37,7 +37,8 @@ body {
     height: 100px;
     width: 100%;
     border: none;
-    outline: none;background: #a7af7c;
+    outline: none;
+    background: #a7af7c;
 }
 
 span {
