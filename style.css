@@ -49,6 +49,6 @@ body {
 
 span {
     position: relative;
-    display: grid;
+    display: grid;width: ;
     color: #fff;
 }
