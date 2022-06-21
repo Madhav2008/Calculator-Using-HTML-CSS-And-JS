@@ -20,7 +20,7 @@ body {
     background: #333;
     padding: 40px 30px 30px;
     border-radius: 20px;
-    box-shadow: 25px;
+    box-shadow: 25px 25px;
 }
 
 span {
