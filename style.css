@@ -64,7 +64,7 @@ body {
     cursor: pointer;
     font-weight: 400;
     border-radius: 10px;
-    box-shadow: ;
+    box-shadow: -5px;
 }
 
 .calculator span::before {
