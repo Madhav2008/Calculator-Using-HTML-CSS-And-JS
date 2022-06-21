@@ -27,7 +27,8 @@ body {
 }
 
 .calculator {
-    position: relative;display: grid;
+    position: relative;
+    display: grid;
 }
 
 span {
