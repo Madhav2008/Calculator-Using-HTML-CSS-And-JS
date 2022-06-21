@@ -63,7 +63,9 @@ body {
     cursor: pointer;
     font-weight: 400;
 }
+
 .calculator span::before {}
+
 .calculator span i {
     position: relative;
     font-style: normal;
