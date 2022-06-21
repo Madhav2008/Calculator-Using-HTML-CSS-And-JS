@@ -41,7 +41,7 @@ body {
     background: #a7af7c;
     margin-bottom: 10px;
     border-radius: 10px;
-    box-shadow: 0;
+    box-shadow: 0 0;
 }
 
 span {
