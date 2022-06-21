@@ -35,7 +35,7 @@ body {
     position: relative;
     grid-column: span 4;
     height: 100px;
-    width: 100%;
+    width: 100%;border: ;
 }
 
 span {
