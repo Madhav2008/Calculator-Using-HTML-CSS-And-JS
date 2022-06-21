@@ -93,4 +93,6 @@ body {
     text-transform: uppercase;
 }
 
-.calculator .clear {grid-column: ;}
+.calculator .clear {
+    grid-column: ;
+}
