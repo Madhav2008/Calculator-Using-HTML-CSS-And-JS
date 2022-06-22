@@ -85,7 +85,7 @@ body.light .calculator span {
         inset 0 -8px 8px rgba(0, 0, 0, 0.25),
         0 0 0 2px rgba(0, 0, 0, 0.75),
         10px 20px 25px rgba(0, 0, 0, 0.4);
-    color: ;
+    color: #000;
 }
 
 .calculator span::before {
