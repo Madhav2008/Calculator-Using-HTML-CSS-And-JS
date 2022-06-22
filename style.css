@@ -152,3 +152,6 @@ body {
 body.light .btn strong:nth-child(1) {
     display: none;
 }
+body.light .btn strong:nth-child(1) {
+    display: none;
+}
