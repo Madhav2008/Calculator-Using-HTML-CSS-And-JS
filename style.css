@@ -79,7 +79,7 @@ body.light .container {
     border-radius: 10px;
 }
 
-body.light span {}
+body.light .calculator span {}
 
 .calculator span::before {
     content: '';
