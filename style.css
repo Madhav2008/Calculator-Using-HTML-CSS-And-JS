@@ -109,7 +109,7 @@ body.light .calculator span::before {
     border-radius: 10px;
     box-shadow: -10px -10px 10px rgba(255, 255, 255, 0.25),
         10px 5px 10px rgba(0, 0, 0, 0.15);
-    border-left: 1px solid #0004;
+    border-left: 1px solid #fff4;
     border-bottom: 1px solid #0004;
     border-top: 1px solid #0009;
 }
