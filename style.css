@@ -109,7 +109,7 @@ body {
 
 .calculator .plus {
     grid-row: span 2;
-    height: 170px;
+    height: 180px;
 }
 
 .calculator .equal {
