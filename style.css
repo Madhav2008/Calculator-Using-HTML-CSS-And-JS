@@ -149,4 +149,4 @@ body {
     display: block;
 }
 
-body.light .btn strong:nth-child(1) {}
+body.light .btn strong:nth-child(1) {display: ;}
