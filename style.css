@@ -135,6 +135,7 @@ body.light .calculator .clear,
     width: 180px;
     background: #f00;
 }
+
 body.light .calculator .clear,
 .calculator .clear::before {
     background: linear-gradient(90deg, #d20000, #ffffff5c);
