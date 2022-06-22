@@ -154,5 +154,5 @@ body.light .btn strong:nth-child(1) {
 }
 
 body.light .btn strong:nth-child(2) {
-    display: none;
+    display: block;
 }
