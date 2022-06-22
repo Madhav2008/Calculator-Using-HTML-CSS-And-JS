@@ -20,6 +20,7 @@
 
 ## Light Mode
 
+![image](https://user-images.githubusercontent.com/72864817/174968996-fac325e1-2075-4ee7-926b-a4eb877ceb24.png)
 
 
 ![image](https://user-images.githubusercontent.com/72864817/174968704-3b405b98-3a39-45ff-a096-058b49464183.png)
