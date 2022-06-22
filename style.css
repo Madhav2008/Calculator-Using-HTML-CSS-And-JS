@@ -131,7 +131,7 @@ body.light .calculator span:active {
 body.light .calculator span i {
     color: #333;
 }
-body.light .calculator span i{}
+body.light .calculator span i {}
 body.light .calculator .clear,
 .calculator .clear {
     grid-column: span 2;
