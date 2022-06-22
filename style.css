@@ -106,4 +106,6 @@ body {
     border-top: 1px solid #fff4;
 }
 
-.calculator .plus {grid-column: span 2;}
+.calculator .plus {
+    grid-column: span 2;
+}
