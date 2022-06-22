@@ -153,7 +153,7 @@ body.light .calculator .equal,
 .calculator .equal {
     background: #2196f3;
 }
-
+body.light .calculator .equal,
 .calculator .equal::before {
     background: linear-gradient(90deg, #1479c9, #ffffff5c);
     border-left: 1px solid #fff4;
