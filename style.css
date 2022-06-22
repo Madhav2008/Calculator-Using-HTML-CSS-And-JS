@@ -141,4 +141,6 @@ body {
     cursor: pointer;
 }
 
-.btn strong {display: none;}
+.btn strong {
+    display: none;
+}
