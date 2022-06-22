@@ -107,5 +107,6 @@ body {
 }
 
 .calculator .plus {
-    grid-row: span 2;width: 170px;
+    grid-row: span 2;
+    width: 170px;
 }
