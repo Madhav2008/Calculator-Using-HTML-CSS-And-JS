@@ -111,7 +111,7 @@ body {
     height: 170px;
 }
 
-.calculator .clear {
+.calculator .equal {
     grid-column: span 2;
     width: 170px;
     background: #f00;
