@@ -123,4 +123,4 @@ body {
     border-top: 1px solid #fff4;
 }
 
-.btn {}
+.btn {position: absolute;}
