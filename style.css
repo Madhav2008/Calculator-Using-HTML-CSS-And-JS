@@ -136,7 +136,7 @@ body.light .calculator .clear,
     background: #f00;
 }
 
-body.light .calculator .clear,
+body.light .calculator .clear::before,
 .calculator .clear::before {
     background: linear-gradient(90deg, #d20000, #ffffff5c);
     border-left: 1px solid #fff4;
