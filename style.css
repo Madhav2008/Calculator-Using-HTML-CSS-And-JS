@@ -116,7 +116,7 @@ body {
 }
 
 .calculator .equal::before {
-    background: linear-gradient(90deg, #d20000, #ffffff5c);
+    background: linear-gradient(90deg, #1479c9, #ffffff5c);
     border-left: 1px solid #fff4;
     border-bottom: 1px solid #fff4;
     border-top: 1px solid #fff4;
