@@ -119,7 +119,7 @@ body.light .calculator span::before {
 }
 
 body.light .calculator span:active {
-    filter: brightness(1.5);
+    filter: brightness(0.9);
 }
 
 .calculator span i {
