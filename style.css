@@ -141,8 +141,10 @@ body {
     cursor: pointer;
 }
 
-.btn strong {
+.btn strong {/
     display: none;
 }
 
-.btn strong:nth-child(1) {display: block;}
+.btn strong:nth-child(1) {
+    display: block;
+}
