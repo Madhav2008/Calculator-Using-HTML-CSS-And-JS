@@ -100,7 +100,8 @@ body {
 }
 
 .calculator .clear::before {
-    background: linear-gradient(90deg, #d20000, #ffffff5c);border-left: 1px solid #0004;
+    background: linear-gradient(90deg, #d20000, #ffffff5c);
+    border-left: 1px solid #0004;
     border-bottom: 1px solid #0004;
     border-top: 1px solid #0009;
 }
