@@ -118,7 +118,7 @@ body.light .calculator span::before {
     filter: brightness(1.5);
 }
 
-body.light .calculator span i {
+body.light {}.calculator span i {
     position: relative;
     font-style: normal;
     font-size: 1.5em;
