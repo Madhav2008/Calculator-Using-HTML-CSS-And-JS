@@ -34,7 +34,8 @@ body {
 .calculator .value {
     position: relative;
     grid-column: span 4;
-    height: 100px;left: 10px;
+    height: 100px;
+    left: 10px;
     width: calc(100% - 20px);
     border: none;
     outline: none;
