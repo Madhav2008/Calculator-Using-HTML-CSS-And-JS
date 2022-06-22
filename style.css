@@ -148,6 +148,7 @@ body.light .calculator .clear::before,
     grid-row: span 2;
     height: 180px;
 }
+
 body.light .calculator .clear,
 .calculator .equal {
     background: #2196f3;
