@@ -100,5 +100,5 @@ body {
 }
 
 .calculator .clear::before {
-    background: linear-gradient(90deg, #d20000, #4d4d4d);
+    background: linear-gradient(90deg, #d20000, #ffffff5c);
 }
