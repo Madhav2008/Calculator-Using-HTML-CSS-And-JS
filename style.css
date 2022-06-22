@@ -142,7 +142,7 @@ body.light {
     display: flex;
     justify-content: center;
     align-items: center;
-    cursor: pointer;border-radius: ;
+    cursor: pointer;border-radius: 10px;
 }
 
 .btn strong {
