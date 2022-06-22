@@ -146,7 +146,7 @@ body.light {
     border-radius: 10px;
 }
 
-body.light .btn {}
+body.light .btn {background:;}
 
 .btn strong {
     display: none;
