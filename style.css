@@ -83,7 +83,7 @@ body.light .calculator span {
     background: linear-gradient(180deg, #fafafa, #f4f4f4);
     box-shadow: inset -8px 0 8px rgba(0, 0, 0, 0.15),
         inset 0 -8px 8px rgba(0, 0, 0, 0.15),
-        0 0 0 2px rgba(0, 0, 0, 0.75),
+        0 0 0 2px rgba(0, 0, 0, 1),
         10px 20px 25px rgba(0, 0, 0, 0.4);
     color: #000;
 }
