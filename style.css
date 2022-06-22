@@ -77,7 +77,7 @@ body.light .container {
     cursor: pointer;
     font-weight: 400;
     border-radius: 10px;
-}body.light span
+}body.light span{}
 
 .calculator span::before {
     content: '';
