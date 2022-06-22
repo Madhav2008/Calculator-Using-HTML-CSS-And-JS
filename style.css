@@ -113,4 +113,9 @@ body {
 
 .calculator .equal {
     background: #2196f3;
+}.calculator .clear::before {
+    background: linear-gradient(90deg, #d20000, #ffffff5c);
+    border-left: 1px solid #fff4;
+    border-bottom: 1px solid #fff4;
+    border-top: 1px solid #fff4;
 }
