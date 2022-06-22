@@ -128,8 +128,8 @@ body.light .calculator span:active {
     font-size: 1.5em;
     text-transform: uppercase;
 }
-body.light
-.calculator .clear {
+
+body.light .calculator .clear {
     grid-column: span 2;
     width: 180px;
     background: #f00;
