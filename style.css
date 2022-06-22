@@ -147,4 +147,6 @@ body {
 
 .btn strong:nth-child(1) {
     display: block;
-}body.light {}
+}
+
+body.light {}
