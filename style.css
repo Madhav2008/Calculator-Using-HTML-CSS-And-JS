@@ -30,7 +30,7 @@ body.light {
         inset 5px 5px 15px rgba(0, 0, 0, 0.5);
 }
 
-body.light .container {background: ;}
+body.light .container {background: #fafafa;}
 
 .calculator {
     position: relative;
