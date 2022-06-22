@@ -129,10 +129,11 @@ body.light .calculator span:active {
     text-transform: uppercase;
 }
 
-body.light .calculator .clear, {
-    grid-column: span 2;
-    width: 180px;
-    background: #f00;
+body.light .calculator .clear,
+{
+grid-column: span 2;
+width: 180px;
+background: #f00;
 }
 
 .calculator .clear::before {
