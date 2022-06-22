@@ -103,7 +103,7 @@ body.light .calculator span {
     border-top: 1px solid #0009;
 }
 
-body.light .calculator span::before{}
+body.light .calculator span::before {}
 
 .calculator span:active {
     filter: brightness(1.5);
