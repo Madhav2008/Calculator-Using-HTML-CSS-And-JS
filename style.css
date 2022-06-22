@@ -147,7 +147,10 @@ body.light {
 }
 
 body.light .btn {
-    background: #fafafa;
+    background: #fafafa;box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.25),
+    5px 5px 30px rgba(0, 0, 0, 0.25),
+    inset -2px -2px 5px rgba(0, 0, 0, 0.25),
+    inset 2px 2px 5px rgba(0, 0, 0, 0.25);
 }
 
 .btn strong {
