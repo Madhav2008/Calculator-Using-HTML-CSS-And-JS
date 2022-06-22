@@ -132,8 +132,9 @@ body.light .calculator span i {
     color: #333;
 }
 
-body.light .calculator span.clear i, {
-    color: #fff;
+body.light .calculator span.clear i,
+{
+color: #fff;
 }
 
 body.light .calculator .clear,
