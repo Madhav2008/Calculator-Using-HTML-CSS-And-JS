@@ -129,7 +129,7 @@ body.light .calculator span:active {
     text-transform: uppercase;
 }
 
-body.light .calculator span i {}
+body.light .calculator span i {color: ;}
 
 body.light .calculator .clear,
 .calculator .clear {
