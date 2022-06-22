@@ -149,7 +149,7 @@ body.light .calculator .clear::before,
     height: 180px;
 }
 
-body.light .calculator .clear,
+body.light .calculator .equal,
 .calculator .equal {
     background: #2196f3;
 }
